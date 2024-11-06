@@ -1,8 +1,8 @@
-# Plainfolio
+# Portfolio
 
 :flags: A plain portfolio template for everyone
 
-[Live Preview](https://plainfolio.vercel.app/)
+[Live Preview](http://127.0.0.1:5500/)
 
 <!--
 <p align="center">
